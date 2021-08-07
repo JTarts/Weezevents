@@ -1,2 +1,2 @@
 # Weezevents
-Consulting Project, System Data Flow and Use Case diagrams
+Term project, Information Systems Analysis  
